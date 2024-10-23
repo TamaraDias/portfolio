@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo(a), Mestre Sagrado!</h1>
+<h1 align="center">Bem-vindos Devs!</h1>
 <hr />
 
 <a href="https://github.com/TamaraDias" target="_blank">
