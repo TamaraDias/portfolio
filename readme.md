@@ -33,6 +33,12 @@
 
 <h2>🚀 Experiências Profissionais</h2>
 <ul>
+  <li><b>S.I.S.N.I</b> - Voluntária
+    <ul>
+      <li>Cuido de crianças</li>
+    </ul>
+  </li>
+  
   <li><b>Ômega</b> - Cozinheira
     <ul>
       <p><b>Soft Skills</b><p>
