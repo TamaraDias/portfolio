@@ -64,7 +64,6 @@
 <ul>
   <li>Desenvolvimento Web</li>
   <li>Viajar</li>
-  <li>Academia (Musculação)</li>
   <li>Andar de bicicleta</li>
   <li>Conversar, brincar com crianças</li>
   <li>Assistir filmes</li>
